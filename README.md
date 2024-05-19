@@ -1,4 +1,4 @@
-# 后台管理自系统
+# 后台管理子系统
 
 使用 Vue 3、Vite、TypeScript、ElementPlus、TailwindCSS、VueRouter、VueI18n 开发。
 
